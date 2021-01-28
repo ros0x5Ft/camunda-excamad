@@ -1,7 +1,7 @@
 <template>
 <div class>
     <atom-spinner v-if="!(ready == true)" class="spinner" :animation-duration="1000" :size="60" :color="'#007bff'" />
-    <h3>Process definitions and migration tool</h3>
+    <h3>Process definitions and statistics</h3>
     <b-form inline class="mt-2 mb-2">
         <b-input-group class="mr-2">
             <b-form-input size="sm" v-model="filter" placeholder="Type to Search"></b-form-input>

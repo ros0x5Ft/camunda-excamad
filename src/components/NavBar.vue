@@ -12,7 +12,7 @@
                 <b-collapse is-nav id="nav_collapse">
                     <b-navbar-nav>
                         <b-nav-item-dropdown text="Processes">
-                            <b-dropdown-item to="/migration">Stats and migration</b-dropdown-item>
+                            <b-dropdown-item to="/migration">Definitions and stats</b-dropdown-item>
                             <b-dropdown-item to="/history">History and search</b-dropdown-item>
                             <b-dropdown-item to="/oldactivity">Old processes</b-dropdown-item>
                             <b-dropdown-item to="/embedded">Embed and share</b-dropdown-item>

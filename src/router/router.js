@@ -82,6 +82,7 @@ const router = new Router({
     },
     
     {
+      // TODO: Fix naming - 'migration' should be replaced with something more relevant. No "migration" here anymore.
       path: '/migration',
       name: 'migration',
       component: MigrationView,

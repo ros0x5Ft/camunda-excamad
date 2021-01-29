@@ -5,11 +5,6 @@
 
   ***
 
-- Migrate process instances between process definition versions
-  ![](help/migrate.gif)
-
-  ***
-
 - Bulk replace and add variables in process instances
   ![](help/variables.gif)
   ***
@@ -36,3 +31,10 @@ Find first 200 process instances, that not in incident, but waited more 1 week o
   ![](help/edit_and_download_diagram.gif)
 - Also, you can see info from jira for specific process and task on diagram. Excamad try find info in Jira by labels on task.
   ![](help/jira.gif)
+
+---
+
+### [Migration](#/complexmigration) page used to
+
+- Migrate process instances between process definition versions
+

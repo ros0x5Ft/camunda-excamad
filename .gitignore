@@ -21,3 +21,5 @@ yarn-error.log*
 *.sw*
 
 # Special public ignores
+#Electron-builder output
+/dist_electron
